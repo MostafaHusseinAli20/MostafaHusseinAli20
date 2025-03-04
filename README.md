@@ -10,8 +10,8 @@
         <img src="https://img.shields.io/github/forks/MostafaHusseinAli20/MostafaHusseinAli20" alt="Forks Badge"/></a>
   <a href="https://github.com/MostafaHusseinAli20/MostafaHusseinAli20/pulls">
         <img src="https://img.shields.io/github/issues-pr/MostafaHusseinAli20/MostafaHusseinAli20?color=orange" alt="Pull Requests Badge"/></a>
-<!--     <a href="https://github.com/OmarrSakr/OmarrSakr/issues">
-        <img src="https://img.shields.io/github/issues/OmarrSakr/OmarrSakr?color=orange" alt="Issues Badge"/></a> -->
+<!--     <a href="https://github.com/MostafaHusseinAli20/MostafaHusseinAli20/issues">
+        <img src="https://img.shields.io/github/issues/MostafaHusseinAli20/OmarrSakr?color=orange" alt="Issues Badge"/></a> -->
     <a href="https://github.com/MostafaHusseinAli20/MostafaHusseinAli20/graphs/contributors">
         <img src="https://img.shields.io/github/contributors/MostafaHusseinAli20/MostafaHusseinAli20?color=2b9348" alt="GitHub contributors"/></a>
 
@@ -53,52 +53,22 @@
   <li>⚡ Fun fact: <code>I love coding and building cool projects</code>!</li>
 </ul>
 <br>
-<div class="markdown-heading" dir="auto">
-  <h2 class="heading-element" dir="auto">☕ Support My Work</h2>
-
-  <a id="user-content--support-my-work" class="anchor" aria-label="Permalink: ☕ Support My Work" href="#-support-my-work">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-    </svg>
-  </a>
-</div>
-<a href="https://www.buymeacoffee.com/omarrhussev" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-       alt="Buy Me A Coffee" 
-       style="height: 60px !important; width: 217px !important; max-width: 100%; height: auto;"></a>
-       <br>
-       <br>
-<a href="https://www.patreon.com/OmarSakr" target="_blank" rel="noopener noreferrer" 
-   style="display: inline-block; text-decoration: none; border-radius: 10px; overflow: hidden; 
-          box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); transition: transform 0.2s ease, box-shadow 0.2s ease;">
- <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" 
-     alt="Become a Patron" 
-     style="display: block; height: 60px; width: auto; max-width: 100%; height: auto; border-radius: 10px;"></a>
-
----
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📩 Connect with me</h2><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 📩 Connect with me" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-    <img src="https://img.shields.io/badge/Linktree-darkgreen.svg?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" style="max-width: 100%; height: auto;"></a>
 
-<a href="https://www.linkedin.com/in/omarrhussein" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/mostafa-hussein-mohamed-5499862b8" title="LinkedIn" target="_blank" rel="noopener noreferrer">
     <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
         alt="LinkedIn"
         data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
         style="max-width: 100%;"></a>
   
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=DevOmarHussein@gmail.com" title="Gmail" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mostafaaa.husseinn@gmail.com" title="Gmail" target="_blank">
     <img src="https://camo.githubusercontent.com/d450447694b79318c4a02da2e89e7cd6a86d883207c6fca0b51021a64af3f79e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
         alt="Gmail"
         style="max-width: 100%; height: auto;"></a>
 
-<a href="https://api.whatsapp.com/send?phone=201280281610" target="_blank" rel="noopener noreferrer">
+<a href="https://api.whatsapp.com/send?phone=201128458999" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff" alt="WhatsApp Contact" style="max-width: 100%;"></a>
-
-<a href="https://x.com/OmarrSaqr" target="_blank" title="Twitter (X)" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" 
-         alt="Twitter (X)" 
-         style="max-width: 100%; height: auto;"></a>
 
 <a href="https://www.instagram.com/mo_drsh/" target="_blank" title="Instagram" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" style="max-width: 100%;"></a>
@@ -219,33 +189,3 @@
 </p>
 
 <br>
-
-## <!--
-
-<div align="center" style="background-color: black; padding: 20px;">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=E28905&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Top+followers%3A" 
-           alt="Typing SVG"/></a>
-    <table>
-         <tr>
-        <td align="center" style="margin-right: 5px;">
-            <a href="https://github.com/AhmeeddMostafa">
-                <img src="https://avatars.githubusercontent.com/u/96956592?v=4" width="75px" alt="Ahmeed Mostafa" />
-                <br />
-                <sub>Ahmeed Mostafa</sub>
-            </a>
-        </td>
-        <td align="center" style="margin-left: 5px;">
-            <a href="https://github.com/Mohmoudomarr">
-                <img src="https://avatars.githubusercontent.com/u/193899952?v=4" width="75px" alt="Mohmoud omar" />
-                <br />
-                <sub>Mohmoud omar</sub>
-            </a>
-        </td>
-    </tr>
-      <tr>
-      <td colspan="2" style="height: 20px; background-color: #f0f0f0;"></td> 
-      </tr> 
-    </table>
-</div>
--->
