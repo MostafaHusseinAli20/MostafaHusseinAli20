@@ -87,21 +87,10 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
         alt="GitHub" style="max-width: 100%; height: auto;"></a>
 
-  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" title="CCNA" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/CCNA-%230F4C81.svg?style=for-the-badge&logo=cisco&logoColor=white"
-        alt="CCNA" style="max-width: 100%;"></a>
-     <a href="https://isocpp.org/" title="C++" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-            alt="C++" style="max-width: 100%;"></a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
-            alt="CSharp" style="max-width: 100%;"></a>
-    <a href="https://www.oracle.com/java/" title="Java" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
-            alt="Java" style="max-width: 100%;"></a>
-     <a href="https://www.python.org/" title="Python" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-            alt="Python" style="max-width: 100%;"></a>
+ </a>
+     </a>
+    </a>
+  </a>
     <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
             alt="HTML5" style="max-width: 100%;"></a>
@@ -129,9 +118,7 @@
     <a href="https://sass-lang.com/" title="Sass" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"
             alt="Sass" style="max-width: 100%;"></a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet" title="ASP.NET" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/asp.net-%23239120.svg?style=for-the-badge&logo=aspnet&logoColor=white"
-        alt="ASP.NET" style="max-width: 100%;"></a>
+  </a>
    <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
             alt="MySQL" style="max-width: 100%;"></a>
@@ -141,11 +128,12 @@
   <a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"
         alt="Visual Studio" style="max-width: 100%;"></a>
-    <a href="https://www.adobe.com/products/illustrator.html" title="Illustrator" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"
-            alt="Illustrator" style="max-width: 100%;"></a>
-    <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/adobe%20photoshop-%23D83C36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"
+  </a>
+    <a href="https://www.php.net/" title="PHP" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/php-%235C2D91.svg?style=for-the-badge&logo=php&logoColor=white"
+            alt="Photoshop" style="max-width: 100%;"></a>
+             <a href="[https://www.php.net/](https://laravel.com/)" title="Laravel" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/laravel-%235C2D91.svg?style=for-the-badge&logo=laravel&logoColor=white"
             alt="Photoshop" style="max-width: 100%;"></a>
 </p>
 <div class="markdown-heading" dir="auto">
