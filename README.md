@@ -132,7 +132,7 @@
     <a href="https://www.php.net/" title="PHP" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/php-%235C2D91.svg?style=for-the-badge&logo=php&logoColor=white"
             alt="Photoshop" style="max-width: 100%;"></a>
-             <a href="[https://www.php.net/](https://laravel.com/)" title="Laravel" target="_blank" rel="nofollow">
+             <a href="https://www.laravel.com/" title="Laravel" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/laravel-%235C2D91.svg?style=for-the-badge&logo=laravel&logoColor=white"
             alt="Photoshop" style="max-width: 100%;"></a>
 </p>
