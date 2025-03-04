@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mostafa Hussein and I'm a Full Stack Developer from Egypt</h2>
+<h1 align="left">Hi 👋! My name is Mostafa Hussein and I'm a Full Stack Developer from Egypt</h1>
 
 ###
 
@@ -50,5 +50,9 @@
 <div align="center">
   <img height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRpZDJ4MTNya3ppYjlwb3NsMmV2aGg4MWMyOTVydW9xYXU5M2h4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
+
+###
+
+<p align="left">🚀 Mostafa Hussein – A passionate Full Stack Software Engineer specializing in React ⚛️, Next.js 🚀, PHP 🐘, and Laravel 🔥. I have extensive experience in building scalable web applications, including invoice management systems, POS (Point of Sale) systems, e-commerce platforms, worker management systems, and restaurant APIs.<br>💡 I offer landing page development and dashboard setup services, ensuring high performance, seamless integration, and a great user experience. I’m always eager to explore new technologies and push the boundaries of web development!</p>
 
 ###
