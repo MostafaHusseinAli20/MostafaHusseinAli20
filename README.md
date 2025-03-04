@@ -38,9 +38,9 @@
             style="max-width: 100%;"></a>
 </p>
 <br>
-<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JjM29vcjA3cW1xNmZ1Z3pxeDhzamkzamRsajJtZDZyNHJmeGJkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" data-target="animated-image.originalLink"><img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JjM29vcjA3cW1xNmZ1Z3pxeDhzamkzamRsajJtZDZyNHJmeGJkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JjM29vcjA3cW1xNmZ1Z3pxeDhzamkzamRsajJtZDZyNHJmeGJkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" target="_blank">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
           
     
 <ul dir="auto">
