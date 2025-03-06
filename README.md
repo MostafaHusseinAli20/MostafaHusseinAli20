@@ -135,6 +135,12 @@
              <a href="https://www.laravel.com/" title="Laravel" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/laravel-%235C2D91.svg?style=for-the-badge&logo=laravel&logoColor=white"
             alt="Photoshop" style="max-width: 100%;"></a>
+             <a href="https://livewire.laravel.com/" title="Livewire" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/livewire-%23E34F26.svg?style=for-the-badge&logo=livewire&logoColor=white"
+            alt="Photoshop" style="max-width: 100%;"></a>
+            <a href="https://www.w3schools.com/js/js_ajax_intro.asp" title="Ajax" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/ajax-%23E34F26.svg?style=for-the-badge&logo=ajax&logoColor=white"
+            alt="Photoshop" style="max-width: 100%;"></a>
 </p>
 <div class="markdown-heading" dir="auto">
  <h2>
